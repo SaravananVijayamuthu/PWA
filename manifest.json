@@ -13,7 +13,7 @@
         }
     ],
     "lang": "en-US",
-    "start_url": "https://saravananvijayamuthu.github.io/PWA/",
+    "start_url": "/index.html",
     "display": "standalone",
     "background_color": "white",
     "theme_color": "white"
